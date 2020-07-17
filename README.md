@@ -1,4 +1,4 @@
-# CFD-for-Biomimetics
+# CFD-For-Biomimetics
 ABSTRACT--
 Drag is a true annoyance for many industrial sectors around the world. Drag force is produced by the friction of a flowing fluid flowing on the surface that lowers the energy efficiency of the system. This experiment attempts to minimize the drag force by testing theoretical biomimetic coatings. This approach was proven efficient using the digital method known as Computational Fluid Dynamics (CFD) for solving this fluid-flow problem. The morphological structures of different organisms were modeled using software tools such as Salome, OpenFOAM, and ParaView for further comparison.
 
